@@ -1,5 +1,5 @@
 /*
- AGIn - ARDUINO Gear Indicator
+ ArGIn - ARDUINO Gear Indicator
  
  Copyright 2015, Cristian Privat (privat.tecnologia@gmail.com)
  
