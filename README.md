@@ -10,9 +10,9 @@ The Argin is an automotive gear indicator having manual transmission H-type five
 ## Features
 
 Basic functions:
-— View the march used in the vehicle;
-— Display brightness control;
-— Source code available for improvements and / or changes.
+* View the march used in the vehicle;
+* Display brightness control;
+* Source code available for improvements and / or changes.
 
 ## Motivation
 
