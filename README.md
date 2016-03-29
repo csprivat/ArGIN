@@ -21,6 +21,18 @@ Because this project exist?
 As automotive enthusiast, identified the need for a gear indicator for my car. When searching only found for purchase models for vehicles with automatic transmission.
 From this obstacle I started developing my own gear indicator and, after brief research and drafts, I opted for the ease of the Arduino platform.
 
+# The “Team”
+
+* [Cristian Privat](//github.com/csprivat) - Main Developer; Tester.
+
+
+### Special Thanks To
+
+* Thiago “Pixel”;
+* Thales Simonato;
+* Eurípedes Marley;
+
+
 ## Copyright/License
 
 Copyright 2015, Cristian Privat (privat.tecnologia@gmail.com)
